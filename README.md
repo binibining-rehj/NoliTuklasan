@@ -1,6 +1,5 @@
-# NoliTuklasan
-Educational game about Noli Me Tangere Aralin 1
-<!DOCTYPE html>
+
+
 <html lang="fil">
 <head>
     <meta charset="UTF-8">
